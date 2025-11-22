@@ -1,0 +1,147 @@
+{
+  "salesforce-enterprise-campaigns": {
+    "id": "salesforce-enterprise-campaigns",
+    "title": "Senior Manager, Enterprise Campaigns",
+    "company": "Salesforce",
+    "years": "2014–2017",
+    "zoneIds": ["martech-mountain"],
+    "longSummary": "Integrated Marketing Campaigns, Events, and ABM leader focused on Enterprise-level accounts, including many Fortune 50 companies. Built integrated, solution-focused programs by combining product marketing, field events, BDR coaching, and partner engagement.",
+    "responsibilities": [
+      "Owned enterprise Service Cloud demand generation strategy for key industries.",
+      "Developed integrated marketing motions spanning digital, events, and BDR outreach.",
+      "Partnered with Product Marketing, Sales, and Partners to define campaign narratives.",
+      "Designed BDR coaching and follow-up processes to ensure pipeline progression."
+    ],
+    "bullets": [
+      "Business owner for Enterprise Service Cloud demand generation campaigns, including pipeline strategy, messaging, and tactic mix.",
+      "Directed execution and follow-up for major industry tradeshows (e.g., NRF for Retail, HIMSS for Healthcare).",
+      "Authored an operations enablement guide for maximizing on-site presence, segmented sales messaging, and executive engagement.",
+      "Established an Account-Based Marketing (ABM) Center of Excellence Program, designing methodology and documentation for customer journeys using propensity data.",
+      "Increased pipeline from key target accounts by approximately 30% year-over-year."
+    ],
+    "skills": [
+      "abm-strategy",
+      "integrated-campaigns",
+      "enterprise-gtm",
+      "event-strategy",
+      "sales-enablement"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "marketing-automation",
+      "event-platforms"
+    ]
+  },
+  "salesforce-marketing-ops-practice-leader": {
+    "id": "salesforce-marketing-ops-practice-leader",
+    "title": "Global Marketing Operations Practice Leader",
+    "company": "Salesforce",
+    "years": "2017–2021",
+    "zoneIds": ["martech-mountain", "revops-forge"],
+    "longSummary": "Developed and led a global marketing operations practice for Non-Profit and Education teams, transforming how demand-generation performance was measured and operationalized.",
+    "responsibilities": [
+      "Supported ~95 global marketers across demand gen, field marketing, events, and product marketing.",
+      "Designed and maintained a full-funnel reporting framework using Salesforce and Tableau.",
+      "Provided role-specific enablement and office hours for campaign managers and field marketers.",
+      "Partnered with Sales Ops and leadership to align KPIs and dashboard views."
+    ],
+    "bullets": [
+      "Developed a data-driven demand generation reporting structure covering the entire funnel from inquiry to closed won.",
+      "Engineered migration of spreadsheet-based scorecards to Tableau dashboards, cutting reporting refresh and delivery time from 4 days to 2 hours (≈190% time savings).",
+      "Led activation and training on Salesforce dashboards, campaign management, and database utilization.",
+      "Helped drive a 76% year-over-year increase in marketing-sourced pipeline and a 63% YoY increase in ACV.",
+      "Directed a multinational team to overhaul strategy and operations, increasing lead generation by 150% in the first year."
+    ],
+    "skills": [
+      "revops-architecture",
+      "funnel-analytics",
+      "data-visualization",
+      "marketing-operations",
+      "enablement"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "tableau",
+      "marketing-automation",
+      "on24",
+      "google-analytics"
+    ]
+  },
+  "redhat-abm": {
+    "id": "redhat-abm",
+    "title": "Senior Principal Program Manager, Account-Based Marketing",
+    "company": "Red Hat",
+    "years": "2021–2023",
+    "zoneIds": ["revops-forge", "abm-kingdom"],
+    "longSummary": "Led ABM program design and lifecycle strategy in the Global Program Office, enabling field marketers around the world to execute consistent, data-driven customer growth programs.",
+    "responsibilities": [
+      "Designed the ABM Customer Activation framework and rollout strategy.",
+      "Built multi-product customer lifecycle playbooks to support sales, CS, and marketing.",
+      "Partnered with Sales, Ops, Product Management, and Customer Success on shared KPIs and execution plans.",
+      "Standardized requirements gathering and feedback loops with field teams."
+    ],
+    "bullets": [
+      "Developed the ABM Customer Activation framework that supported 200+ enterprise customers and 65+ field marketers.",
+      "Contributed to approximately 33% of Red Hat’s global pipeline via ABM-led programs.",
+      "Created reusable lifecycle playbooks to guide upsell, cross-sell, and retention motions.",
+      "Directed aggregation and analysis of customer engagement data, enabling faster and more targeted programs.",
+      "Standardized intake and requirements processes with Product Management and Customer Success to streamline execution and improve customer experience."
+    ],
+    "skills": [
+      "abm-strategy",
+      "customer-lifecycle-design",
+      "playbook-development",
+      "cross-functional-leadership",
+      "data-driven-programs"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "marketing-analytics",
+      "customer-data-platform"
+    ]
+  },
+  "prgx-digital-abm": {
+    "id": "prgx-digital-abm",
+    "title": "Director of Digital Marketing & ABM",
+    "company": "PRGX Global Inc.",
+    "years": "2024–2025",
+    "zoneIds": ["abm-kingdom", "demandgen-fields", "revops-forge"],
+    "longSummary": "Director-level leader owning digital, ABM, and marketing operations at PRGX. Focused on building a unified stack, consistent data capture, and scalable campaigns that directly connect to pipeline and revenue.",
+    "responsibilities": [
+      "Global ABM lead and admin for Demandbase, Salesforce, Qualified, and related tools.",
+      "Designed digital experiences that balanced strong UX with robust data capture and attribution.",
+      "Oversaw SEO, paid search, and paid social programs including agency partnerships.",
+      "Led a team of three marketers focused on campaign execution and analytics.",
+      "Built marketing operations foundations including scoring, attribution, and stack governance."
+    ],
+    "bullets": [
+      "Served as global ABM lead for ~300 target accounts, managing system design and sales enablement for Demandbase, Salesforce, and Qualified.",
+      "Redesigned and optimized web and content experiences to support persona- and vertical-specific Demandbase personalization.",
+      "Continuously optimized SEO and paid search, improving visibility, conversion rates, and pipeline influence in partnership with external agencies.",
+      "Designed and executed data-driven campaigns in Marketo and paid social channels, lifting MQL-to-SQL conversion by roughly 180% YoY.",
+      "Acted as primary admin for Salesforce, Demandbase, ZoomInfo, Marketo, Qualified, and WordPress to maximize adoption and process efficiency.",
+      "Established a formal Marketing Operations practice including revamped lead scoring and an updated attribution model.",
+      "Led and coached a team of three, regularly training on how to build high-performing campaigns and analytics that create measurable pipeline impact.",
+      "Led prioritization of automation and workflow improvements in CRM and MAP to support multi-touch, multi-channel campaigns."
+    ],
+    "skills": [
+      "abm-strategy",
+      "digital-demand-gen",
+      "stack-governance",
+      "seo-sem",
+      "attribution-modeling",
+      "team-leadership",
+      "analytics"
+    ],
+    "tools": [
+      "demandbase",
+      "salesforce-crm",
+      "marketo",
+      "zoominfo",
+      "qualified",
+      "wordpress",
+      "google-analytics",
+      "paid-social-platforms"
+    ]
+  }
+}

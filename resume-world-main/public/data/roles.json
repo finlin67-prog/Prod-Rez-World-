@@ -1,0 +1,162 @@
+[
+  {
+    "id": "salesforce-enterprise-campaigns",
+    "attractionId": "salesforce-campaigns",
+    "title": "Senior Manager, Enterprise Campaigns",
+    "company": "Salesforce",
+    "location": "San Francisco, CA, USA",
+    "startYear": 2014,
+    "endYear": 2017,
+    "zoneIds": ["martech-mountain"],
+    "summary": "Led integrated enterprise campaigns and ABM programs for Service Cloud and key industries, aligning product marketing, sales, and events to drive pipeline and ACV.",
+    "highlights": [
+      "Owned enterprise Service Cloud demand generation campaigns across Fortune 50 accounts.",
+      "Built integrated programs combining digital, events, BDR outreach, and executive briefings.",
+      "Authored ABM Center of Excellence playbooks and demand-gen methodologies.",
+      "Increased pipeline from target accounts by 30% year-over-year through propensity-led targeting."
+    ],
+    "skills": [
+      "abm-strategy",
+      "integrated-campaigns",
+      "enterprise-gtm",
+      "sales-enablement",
+      "event-strategy"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "marketing-automation",
+      "event-platforms"
+    ],
+    "metrics": {
+      "pipelineLiftPct": 30
+    },
+    "seniority": "manager",
+    "category": "role",
+    "order": 3
+  },
+  {
+    "id": "salesforce-marketing-ops-practice-leader",
+    "attractionId": "salesforce-ops",
+    "title": "Global Marketing Operations Practice Leader",
+    "company": "Salesforce",
+    "location": "Remote – Miami/Fort Lauderdale Area",
+    "startYear": 2017,
+    "endYear": 2021,
+    "zoneIds": ["martech-mountain", "revops-forge"],
+    "summary": "Built a data-driven demand gen reporting and enablement practice for global NGO and Education marketing teams, transforming spreadsheet reporting into scalable Tableau-based insights.",
+    "highlights": [
+      "Designed and implemented full-funnel demand-gen reporting for ~95 marketers worldwide.",
+      "Migrated manual spreadsheet scorecards into Tableau, cutting reporting time from 4 days to 2 hours.",
+      "Led activation and training for Salesforce dashboards and campaign management best practices.",
+      "Drove a 76% YoY increase in marketing-sourced pipeline and 63% YoY ACV growth.",
+      "Directed a distributed team to realign strategy and operations, increasing lead gen by 150%."
+    ],
+    "skills": [
+      "revops-architecture",
+      "funnel-analytics",
+      "marketing-operations",
+      "enablement",
+      "data-visualization"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "tableau",
+      "eloqua-or-marketo",
+      "on24",
+      "google-analytics"
+    ],
+    "metrics": {
+      "reportingTimeReductionPct": 190,
+      "pipelineLiftPct": 76,
+      "acvLiftPct": 63,
+      "leadGenLiftPct": 150
+    },
+    "seniority": "leader",
+    "category": "role",
+    "order": 4
+  },
+  {
+    "id": "redhat-abm",
+    "attractionId": "redhat-abm",
+    "title": "Senior Principal Program Manager, Account-Based Marketing",
+    "company": "Red Hat",
+    "location": "Raleigh–Durham–Chapel Hill Area",
+    "startYear": 2021,
+    "endYear": 2023,
+    "zoneIds": ["revops-forge", "abm-kingdom"],
+    "summary": "Built scalable ABM customer activation frameworks and lifecycle playbooks for global enterprise accounts, standardizing how field marketers orchestrate customer growth.",
+    "highlights": [
+      "Designed the ABM Customer Activation framework in the Global Program Office.",
+      "Supported 200+ enterprise customers and 65+ field marketers with playbooks and campaign kits.",
+      "Contributed to roughly one-third of Red Hat’s global pipeline through ABM programs.",
+      "Standardized multi-product customer lifecycle playbooks for upsell and cross-sell.",
+      "Improved data hygiene and reduced churn by aggregating and operationalizing engagement data."
+    ],
+    "skills": [
+      "abm-strategy",
+      "customer-lifecycle-design",
+      "playbook-development",
+      "cross-functional-leadership",
+      "data-driven-programs"
+    ],
+    "tools": [
+      "salesforce-crm",
+      "marketing-analytics",
+      "customer-data-platform"
+    ],
+    "metrics": {
+      "pipelineContributionPct": 33,
+      "customersSupported": 200,
+      "fieldMarketersEnabled": 65
+    },
+    "seniority": "leader",
+    "category": "role",
+    "order": 5
+  },
+  {
+    "id": "prgx-digital-abm",
+    "attractionId": "prgx-digital-abm",
+    "title": "Director of Digital Marketing & ABM",
+    "company": "PRGX Global Inc.",
+    "location": "United States",
+    "startYear": 2024,
+    "endYear": 2025,
+    "zoneIds": ["abm-kingdom", "demandgen-fields", "revops-forge"],
+    "summary": "Owned unified digital, ABM, and marketing operations to drive marketing-sourced pipeline across ~300 target accounts, while standardizing data capture, attribution, and stack governance.",
+    "highlights": [
+      "Global ABM lead and admin for Demandbase, Salesforce, and Qualified across 300 target accounts.",
+      "Redesigned site and content experiences to support verticalized, persona-based personalization.",
+      "Continuously optimized paid search and SEO through agency partnerships for higher conversion and influence.",
+      "Built data-driven campaigns in Marketo and paid social, lifting MQL-to-SQL conversion by ~180% YoY.",
+      "Served as primary admin for Salesforce, Demandbase, ZoomInfo, Marketo, Qualified, and WordPress.",
+      "Established a marketing operations practice including revamped lead scoring and attribution models.",
+      "Led and coached a team of three on building high-performing digital and analytical programs."
+    ],
+    "skills": [
+      "abm-strategy",
+      "digital-demand-gen",
+      "stack-governance",
+      "attribution-modeling",
+      "seo-sem",
+      "team-leadership"
+    ],
+    "tools": [
+      "demandbase",
+      "salesforce-crm",
+      "marketo",
+      "zoominfo",
+      "qualified",
+      "wordpress",
+      "google-analytics",
+      "paid-social-platforms"
+    ],
+    "metrics": {
+      "accountsTargeted": 300,
+      "mqlToSqlLiftPct": 180,
+      "teamSize": 3
+    },
+    "seniority": "director",
+    "category": "role",
+    "order": 6
+  }
+]

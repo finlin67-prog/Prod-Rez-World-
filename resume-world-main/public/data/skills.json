@@ -1,0 +1,192 @@
+{
+  "skills": [
+    {
+      "id": "abm-strategy",
+      "label": "Account-Based Marketing Strategy",
+      "zoneId": "abm-kingdom",
+      "tags": ["ABM", "Named Accounts", "Enterprise"],
+      "tools": ["DemandBase", "6Sense", "Salesforce CRM", "Marketo", "Eloqua", "HubSpot"],
+      "metrics": [
+        "Target account engagement",
+        "Pipeline influence from ABM",
+        "Expansion / upsell ACV",
+        "Win-rate for named accounts"
+      ],
+      "seniorityHint": "Director+",
+      "description": "Designing and running multi-tier ABM programs (1:many, 1:few, 1:1), mapping buying committees, and aligning Sales + Marketing motions around target accounts."
+    },
+    {
+      "id": "demand-gen",
+      "label": "Demand Generation & Campaigns",
+      "zoneId": "demand-gen-fields",
+      "tags": ["Campaigns", "Funnels", "Digital"],
+      "tools": ["Marketo", "Eloqua", "Pardot", "Marketing Cloud", "Google Ads", "LinkedIn Ads"],
+      "metrics": [
+        "MQL → SQL conversion rate",
+        "Marketing-sourced pipeline",
+        "Cost per opportunity",
+        "Landing page conversion rates"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Integrated campaigns across paid search, paid social, email, and events — including funnel design, nurture journeys, and collaboration with BDRs and Sales."
+    },
+    {
+      "id": "marketing-ops",
+      "label": "Marketing Operations",
+      "zoneId": "gtmstack-citadel",
+      "tags": ["Process", "Automation", "Data Hygiene"],
+      "tools": ["Marketo", "Eloqua", "Pardot", "Marketing Cloud", "Salesforce CRM", "Responsys"],
+      "metrics": [
+        "Lead routing SLA",
+        "Database health & segmentation coverage",
+        "Time-to-launch for campaigns",
+        "Ops ticket backlog / throughput"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Building scalable marketing processes, lead scoring models, attribution setups, and automations that keep campaigns reliable and measurable."
+    },
+    {
+      "id": "revops",
+      "label": "Revenue Operations",
+      "zoneId": "revops-forge",
+      "tags": ["RevOps", "Systems", "Workflows"],
+      "tools": ["Salesforce CRM", "Qualified.com", "ZoomInfo", "Salesloft", "Drift", "Microsoft Dynamics"],
+      "metrics": [
+        "Lead-to-opportunity conversion",
+        "Pipeline coverage vs target",
+        "Data completeness for key fields",
+        "Sales cycle length"
+      ],
+      "seniorityHint": "Director+",
+      "description": "Connecting Marketing, Sales, and CS systems to enable end-to-end funnel visibility and automation, with clean data and shared GTM telemetry."
+    },
+    {
+      "id": "analytics-bi",
+      "label": "Analytics & BI",
+      "zoneId": "analytics-harbor",
+      "tags": ["Analytics", "BI", "Attribution"],
+      "tools": [
+        "Tableau",
+        "Google Analytics (GA4)",
+        "Adobe Analytics",
+        "Einstein Analytics",
+        "Power BI",
+        "Looker Studio",
+        "SQL"
+      ],
+      "metrics": [
+        "Refresh time for key dashboards",
+        "Attribution coverage across channels",
+        "Conversion rates by funnel stage",
+        "Data latency from source systems"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Designing reporting frameworks, dashboards, and attribution models that connect activity to pipeline, ARR, and customer value."
+    },
+    {
+      "id": "web-digital-experience",
+      "label": "Web & Digital Experience",
+      "zoneId": "martech-mountain",
+      "tags": ["Web", "CX", "Conversion"],
+      "tools": ["WordPress", "SharePoint", "Responsys", "Crazy Egg", "Pendo.io"],
+      "metrics": [
+        "Website conversion rate",
+        "Form completion rate",
+        "Session-to-MQL contribution",
+        "Time on site for key personas"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Owning marketing web properties, experimentation, and UX improvements that lift engagement and conversions for priority audiences."
+    },
+    {
+      "id": "content-experience",
+      "label": "Content, Events & Digital Experiences",
+      "zoneId": "onboarding-forest",
+      "tags": ["Content", "Events", "Webinars"],
+      "tools": ["ON24", "Folloze", "Pathfactory", "Sprinklr", "HootSuite"],
+      "metrics": [
+        "Webinar registration → attendance",
+        "Content-engaged accounts",
+        "Influenced pipeline by content",
+        "Repeat attendee / subscriber rate"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Creating and orchestrating digital experiences (webinars, nurture paths, content hubs) that move prospects through education to evaluation."
+    },
+    {
+      "id": "customer-insights",
+      "label": "Customer Insights & Feedback",
+      "zoneId": "analytics-harbor",
+      "tags": ["VOC", "CX", "Feedback"],
+      "tools": ["Qualtrics", "Sprinklr", "Pendo.io"],
+      "metrics": [
+        "NPS / CSAT trends",
+        "Product adoption for key features",
+        "Churn / expansion signals from surveys",
+        "Engagement of customer advisory groups"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Structuring customer feedback loops and using VOC data to inform lifecycle programs, upsell plays, and product marketing."
+    },
+    {
+      "id": "social-community",
+      "label": "Social & Community Marketing",
+      "zoneId": "career-garden",
+      "tags": ["Social", "Community", "Engagement"],
+      "tools": ["Sprinklr", "HootSuite"],
+      "metrics": [
+        "Follower growth for target segments",
+        "Community engagement rate",
+        "Social-influenced traffic & leads",
+        "Community-driven product feedback"
+      ],
+      "seniorityHint": "IC / Manager",
+      "description": "Designing social and community programs (like your Crowd Factory / Get Satisfaction era) that amplify content and deepen customer relationships."
+    },
+    {
+      "id": "sales-enablement",
+      "label": "Sales & Field Enablement",
+      "zoneId": "onboarding-forest",
+      "tags": ["Enablement", "Playbooks", "Training"],
+      "tools": ["Seismic", "Salesforce CRM", "Cvent"],
+      "metrics": [
+        "Enablement content usage by reps",
+        "Time-to-ramp for new sellers",
+        "Field adoption of ABM plays",
+        "Lift in win-rate for enabled opportunities"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Building playbooks, trainings, and content to help Sales use campaigns, insights, and tools effectively (like your DemandBase & Salesforce enablement)."
+    },
+    {
+      "id": "events-field-marketing",
+      "label": "Events & Field Marketing",
+      "zoneId": "demand-gen-fields",
+      "tags": ["Events", "Field", "Trade Shows"],
+      "tools": ["Cvent", "Salesforce CRM"],
+      "metrics": [
+        "Opportunities sourced from events",
+        "Booth engagement vs traffic",
+        "Onsite meeting count & quality",
+        "Pipeline influenced by field activations"
+      ],
+      "seniorityHint": "Manager+",
+      "description": "Major trade shows and field events — like NRF and HIMSS — integrated with campaigns, BDR coaching, and exec briefings."
+    },
+    {
+      "id": "leadership-strategy",
+      "label": "Leadership & GTM Strategy",
+      "zoneId": "gtmstack-citadel",
+      "tags": ["Leadership", "Strategy", "Org Design"],
+      "tools": ["Salesforce CRM", "Tableau", "PowerPoint", "Miro"],
+      "metrics": [
+        "Team engagement & retention",
+        "Cross-functional alignment on KPIs",
+        "Speed of strategic initiative rollout",
+        "Revenue impact of GTM shifts"
+      ],
+      "seniorityHint": "Director+",
+      "description": "Defining GTM strategy, leading teams, and translating complex marketing & ops capabilities into clear narratives for executives and stakeholders."
+    }
+  ]
+}
